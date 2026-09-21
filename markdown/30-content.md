@@ -1,58 +1,58 @@
-# What's in an Open edX course?
+# Was enthält ein Open edX-Kurs?
 
-Short answer: pretty much anything. <!-- .element class="fragment" -->
+Kurze Antwort: fast alles. <!-- .element class="fragment" -->
 
 <!-- Note -->
-So let's talk about what you the learner can find typically find in an Open edX course, and what you the course author can *include* in one.
+Sprechen wir also darüber, was du als Lernende:r typischerweise in einem Open edX-Kurs finden kannst und was du als Kursautor:in *einschließen* kannst.
 
-Open edX has a universal course description markup format called OLX ("Open Learning XML") that course authors can populate using a course authoring app (Open edX Studio).
+Open edX hat ein universelles Kursbeschreibungsmarkup-Format namens OLX ("Open Learning XML"), das Kursautor:innen mittels einer Kurs-Autorisierungs-App (Open edX Studio) ausfüllen können.
 
-OLX allows course authors to include a bunch of different formats in Open edX courses:
+OLX erlaubt Kursautor:innen, verschiedene Formate in Open edX-Kursen einzuschließen:
 
 
 ## Text/HTML/Markdown
 
 <!-- Note -->
-The simplest and most straightforward elements are those that contain simple prose, which course authors can write in a WYSIWIG editor (most commonly), in straight-up HTML, or via Markdown.
+Die einfachsten und direktesten Elemente sind solche, die einfachen Fließtext enthalten, den Kursautor:innen in einem WYSIWYG-Editor (am häufigsten), in purem HTML oder via Markdown schreiben können.
 
 
 ## Video
 
 <!-- Note -->
-Then there's video content, which can either be hosted within the platform itself, or on YouTube.
+Dann gibt es Videoinhalte, die entweder direkt in der Plattform gehostet werden können oder auf YouTube.
 
-Whichever the hosting method, video can be stored with full transcripts.
-
-
-## Assets 
-
-<!-- Note -->
-You can also include externally-managed assets, like PDF textbooks, slide decks, or Google Docs resources, plus the ability to include almost anything via external iframes.
+Unabhängig von der Hosting-Methode kann Video mit vollständigen Transkripten gespeichert werden.
 
 
-## Review Problems
+## Assets
 
 <!-- Note -->
-Then, there's a whole array of things that Open edX calls "Problems", from simple multiple-choice quizzes or free-text input to chemical equations, maths problems, coding problems (in sandboxes), all the way to Open Response Assessments (ORAs), which are a means of collaboratively evaluating essay-style answers.
+Du kannst auch extern verwaltete Assets einfügen, wie PDF-Lehrbücher, Folienpräsentationen oder Google Docs-Ressourcen, sowie die Möglichkeit, fast alles über externe iframes einzubinden.
 
 
-... and of course 
+## Übungsaufgaben
 
-## LTI 
+<!-- Note -->
+Dann gibt es eine ganze Reihe von Dingen, die Open edX als "Aufgaben" bezeichnet — von einfachen Multiple-Choice-Quiz oder Freitext-Eingaben bis hin zu chemischen Gleichungen, Matheaufgaben, Coding-Aufgaben (in Sandboxes), bis hin zu Open-Response-Assessments (ORAs), die eine Methode zur kooperativen Bewertung von Essays-ähnlichen Antworten sind.
+
+
+... und natürlich
+
+## LTI
 ## SCORM
 
 <!-- Note -->
-And of course you also have the option of including content generated in *other* content authoring systems, via [Learning Tools Interoperability](https://en.wikipedia.org/wiki/Learning_Tools_Interoperability) (LTI) and [Sharable Content Object Reference Model](https://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model) (SCORM).
+Und natürlich hast du auch die Option, Inhalte, die in *anderen* Content-Autorisierungssystemen erstellt wurden, über [Learning Tools Interoperability](https://en.wikipedia.org/wiki/Learning_Tools_Interoperability) (LTI) und [Sharable Content Object Reference Model](https://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model) (SCORM) einzuschließen.
 
 
 ## XBlocks
 
 <!-- Note -->
-I should mention that not all of this functionality needs to be provided by the Open edX core platform itself.
+Ich sollte erwähnen, dass nicht all diese Funktionalität vom Open edX-Core-Plattform selbst bereitgestellt werden muss.
 
-Instead, Open edX supports a plugin interface --- XBlocks --- with a [public API](https://docs.openedx.org/projects/xblock/en/latest/index.html), and anyone can write an extension to Open edX, in Python, implementing that API.
-(We'll come back to XBlocks shortly.)
+Stattdessen unterstützt Open edX eine Plugin-Schnittstelle — XBlocks — mit einer [öffentlichen API](https://docs.openedx.org/projects/xblock/en/latest/index.html), und jede:r kann eine Erweiterung für Open edX in Python schreiben, die diese API implementiert.
+(Wir kommen gleich auf XBlocks zurück.)
 
-It should be noted that the XBlock API was originally not limited to Open edX.
-That is also the reason why it (in contrast to the AGPL-licensed Open edX core) uses a permissive, non-copyleft Apache license.
-One other consumer of the XBlock API was Google Course Builder, and Apache-licensed LMS from Google that was released in 2012 (but has long been defunct).
+Es sei angemerkt, dass die XBlock-API ursprünglich nicht auf Open edX beschränkt war.
+Das ist auch der Grund, warum sie (im Gegensatz zum AGPL-lizenzierten Open edX-Core) eine permissive, nicht-Copyleft Apache-Lizenz verwendet.
+Ein weiterer Konsument der XBlock-API war Google Course Builder, ein von Google releasedes LMS mit Apache-Lizenz aus dem Jahr 2012 (aber bereits seit Langem eingestellt).

@@ -1,42 +1,42 @@
-# System Architecture <!-- .element class="hidden" -->
+# Systemarchitektur <!-- .element class="hidden" -->
 
-![Cluster overview](images/cluster.svg)
+![Cluster-Übersicht](images/cluster.svg)
 
 <!-- Note -->
-This is what you need to run an Open edX platform:
+Das benötigst du, um eine Open edX-Plattform zu betreiben:
 
-* A database backend running MySQL and MongoDB
-* A server-side Django app exposing most of its functionality via the Django REST Framework (DRF)
-* A set of static microfrontends (MFEs) that are largely based on react.js
-* A front-end load balancer (Caddy) that also handles HTTPS termination and ACME certificate management
-* A Kubernetes cluster to orchestrate it all
+* Ein Datenbank-Backend mit MySQL und MongoDB
+* Eine serverseitige Django-App, die den Großteil ihrer Funktionalität über das Django REST Framework (DRF) bereitstellt
+* Eine Reihe von statischen Microfrontends (MFEs), die größtenteils auf react.js basieren
+* Ein Frontend-Load-Balancer (Caddy), der auch HTTPS-Terminierung und ACME-Zertifikatsverwaltung durchführt
+* Einen Kubernetes-Cluster zur Orchestrierung von allem
 
 
 ## Tutor <!-- .element class="hidden" -->
 
-![Tutor logo](images/tutor-logo.svg)
+![Tutor-Logo](images/tutor-logo.svg)
 
 <!-- Note -->
-The recommended and community-supported method to deploy Open edX is a container orchestrator named **Tutor**.
+Die empfohlene und von der Community unterstützte Methode zur Bereitstellung von Open edX ist ein Container-Orchestrator namens **Tutor**.
 
-Tutor can manage both single-node configurations with local Docker (or, at least in principle, Podman), or it can talk to a Kubernetes cluster and manage a production cluster that way.
+Tutor kann sowohl Single-Node-Konfigurationen mit lokalem Docker (oder zumindest prinzipiell Podman) verwalten, oder es kann mit einem Kubernetes-Cluster kommunizieren und einen Produktions-Cluster auf diese Weise verwalten.
 
-In Kubernetes orchestration mode (with the `tutor k8s` command), it generates Kubernetes manifests with Kustomization, rather than using Helm charts.
-(This is A Good Thing™.)
+Im Kubernetes-Orchestrierungsmodus (mit dem `tutor k8s`-Befehl) generiert es Kubernetes-Manifests mit Kustomization, anstatt Helm-Charts zu verwenden.
+(Das ist eine gute Sache™.)
 
-Tutor — which also includes the automation of container image customisations — can be driven from a CI pipeline quite nicely.
-It also plays well with local container registries in case there is a need for deploying Open edX in an air-gapped fashion on an internal network.
+Tutor — der auch die Automatisierung von Container-Image-Anpassungen enthält — kann sehr gut aus einer CI-Pipeline gesteuert werden.
+Er funktioniert auch gut mit lokalen Container-Registries, falls die Notwendigkeit besteht, Open edX in einem air-gapped Modus in einem internen Netzwerk bereitzustellen.
 
-There have been various proposals for other means of deploying containerised Open edX from several actors in the Open edX community.
-In my own humble opinion, they are all *different* from Tutor, though not *better.*
+Es gab verschiedene Vorschläge für andere Methoden zur Bereitstellung von containerisiertem Open edX von mehreren Akteuren in der Open edX-Community.
+Meiner bescheidenen Meinung nach sind sie alle *anders* als Tutor, jedoch nicht *besser.*
 
 
-## Tutor plugins
+## Tutor-Plugins
 
 <!-- Note -->
-Just like Open edX with its XBlocks, Tutor is modular and extensible through third-party *plugins*.
+Genau wie Open edX mit seinen XBlocks ist Tutor modular und erweiterbar durch Third-Party-*Plugins*.
 
-This way, Open edX site operators can use Tutor to automate things like backups, external storage integration, and many others.
+Auf diese Weise können Open edX-Seitenbetreiber Tutor verwenden, um Dinge wie Backups, externe Speichintegration und vieles mehr zu automatisieren.
 
-Like Open edX, Tutor is AGPL licensed, and this also extends to Tutor plugins.
-In other words, Tutor plugin development generally benefits the whole Open edX community, not only the plugin developers.
+Wie Open edX ist Tutor unter der AGPL lizenziert, und dies erstreckt sich auch auf Tutor-Plugins.
+Mit anderen Worten, Tutor-Plugin-Entwicklung nutzt im Allgemeinen die gesamte Open edX-Community, nicht nur die Plugin-Entwickler:innen.

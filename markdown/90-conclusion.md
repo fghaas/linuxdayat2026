@@ -1,18 +1,18 @@
-# More info
+# Weitere Informationen
 
 [openedx.org](https://openedx.org)
 
 [discuss.openedx.org](https://discuss.openedx.org/)
 
 <!-- Note -->
-More information about Open edX is available from the Open edX website, and you can also engage with the community via the Discourse forum.
+Weitere Informationen über Open edX sind auf der Open edX-Website verfügbar, und du kannst auch über das Discourse-Forum mit der Community interagieren.
 
 
 ## Feedback <!-- .element class="hidden" -->
 
-![Feedback QR code](images/feedback.png)
+![Feedback-QR-Code](images/feedback.png)
 
 <!-- Note -->
-Follow this link to provide talk feedback to the organizers.
+Folge diesem Link, um Feedback zum Vortrag an die Organisatoren zu geben.
 
-Opportunity for questions and demos after the talk.
+Gelegenheit für Fragen und Demos nach dem Vortrag.

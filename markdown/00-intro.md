@@ -1,23 +1,23 @@
 <!-- .slide: data-background-image="images/qrcode.svg" data-background-size="contain" -->
-# Accessibility note <!-- .element class="hidden" -->
+# Hinweis zur Barrierefreiheit <!-- .element class="hidden" -->
 
 <!-- Note -->
-A few words in advance about accessibility:
+Ein paar Worte vorab zur Barrierefreiheit:
 
-If you open this QR code on your phone or tablet, you can follow the talk on your own device.
+Wenn du diesen QR-Code auf deinem Smartphone oder Tablet öffnest, kannst du dem Vortrag auf deinem eigenen Gerät folgen.
 
-The slides on your device will run in sync with mine here.
+Die Folien auf deinem Gerät werden synchron zu meinen hier laufen.
 
-Please do this especially if you're visually impaired or are sitting far back.
+Bitte tue das insbesondere, wenn du Sehbehinderungen hast oder weit hinten sitzt.
 
-If you are sensitive to light or prone to migraines and therefore cannot stare at the bright screen for a lengthy time, then also scan this and --- assuming your device is set to dark mode --- you will get this slide deck with a dark theme.
+Wenn du lichtempfindlich bist oder unter Migräne leidest und du deshalb nicht längere Zeit auf den hellen Bildschirm starren kannst, scanne diesen ebenfalls — und sofern dein Gerät auf den Dunkelmodus eingestellt ist — erhältst du diese Folien mit einem dunklen Design.
 
-And if you are hard of hearing, or are having trouble following my accent, or English isn't your first language, feel free to open this on your device and then double-tap on your screen, which will open my complete speaker notes.
-That means that you'll effectively get me with subtitles.
+Und wenn du gehörbeeinträchtigt bist, Schwierigkeiten hast, meinem Akzent zu folgen, oder Englisch nicht deine Muttersprache ist, öffne dies gerne auf deinem Gerät und tippe dann doppelt auf deinen Bildschirm, was meine vollständigen Sprechernotizen öffnet.
+Das bedeutet, dass du mich im Grunde mit Untertiteln erhältst.
 
 
-# Open edX
-The "other" open source LMS
+# Open edX
+Das "andere" Open-Source-LMS
 
 * * *
 
@@ -26,12 +26,12 @@ Florian Haas | [@xahteiwi@mastodon.social](https://mastodon.social/@xahteiwi)
 pycon.at 2026 | 2026-04-20
 
 <!-- Note -->
-This is a brief introduction to the Open edX Learning Management System (LMS).
+Dies ist eine kurze Einführung in das Open edX Learning Management System (LMS).
 
-I have been using Open edX for more than 10 years, and I still use it on a daily basis.
-My team and I operate several Open edX platforms as part of my day job.
+Ich verwende Open edX seit mehr als 10 Jahren und setze es weiterhin täglich ein.
+Mein Team und ich betreiben mehrere Open edX-Plattformen im Rahmen meiner täglichen Arbeit.
 
-I work at Cleura, we are a European cloud services provider based in Sweden, I am the head of education and professional services there, and this...
+Ich arbeite bei Cleura, einem europäischen Cloud-Service-Anbieter mit Sitz in Schweden. Ich bin dort Leiter von Bildung und Professional Services, und dies ...
 
 
 ## Cleura Cloud Academy <!-- .element class="hidden" -->
@@ -39,6 +39,6 @@ I work at Cleura, we are a European cloud services provider based in Sweden, I a
 [academy.cleura.cloud](https://academy.cleura.cloud)
 
 <!-- Note -->
-... is the platform that my team and I maintain.
+... ist die Plattform, die mein Team und ich warten.
 
-You're welcome to take a look.
+Du bist herzlich eingeladen, einen Blick darauf zu werfen.

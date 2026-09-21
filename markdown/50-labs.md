@@ -2,22 +2,22 @@
 
 <!-- Note -->
 
-Open edX is very well suited for teaching pretty much any kind of information technology, by incorporating interactive labs.
+Open edX ist sehr gut geeignet, um praticamente jede Art von Informationstechnologie beizubringen, indem interaktive Labs integriert werden.
 
-The way we do that is with OpenStack, where we provide arbitrarily complex lab farms to learners.
+Die Art und Weise, wie wir das machen, ist mit OpenStack, wo wir beliebig komplexe Lab-Farmen für Lernende bereitstellen.
 
 
-## Interaction with OpenStack <!-- .element class="hidden" -->
+## Interaktion mit OpenStack <!-- .element class="hidden" -->
 
-![Interaction with OpenStack (via Celery and Heat)](images/celery-heat-openstack.svg)
+![Interaktion mit OpenStack (via Celery und Heat)](images/celery-heat-openstack.svg)
 
 <!-- Note -->
 
-Here, we are defining an arbitrarily complex self-contained environment by way of an OpenStack Heat template.
+Hier definieren wir eine beliebig komplexe, in sich geschlossene Umgebung mittels einer OpenStack Heat-Vorlage.
 
-We can define virtual networks, servers, volumes, routers,... you name it.
+Wir können virtuelle Netzwerke, Server, Volumes, Router,... alles Mögliche definieren.
 
-We then use asynchronous task processing via Celery to spin up such a stack, and have the learner connect to it right from within their browser using Apache Guacamole.
+Wir verwenden dann asynchrone Aufgabenverarbeitung via Celery, um einen solchen Stack hochzufahren, und lassen die Lernenden über Apache Guacamole direkt aus ihrem Browser heraus darauf zugreifen.
 
 
 ## Get Interactive!
@@ -29,4 +29,4 @@ We then use asynchronous task processing via Celery to spin up such a stack, and
 <https://youtu.be/kbrHW--ZLUc>
 
 <!-- Note -->
-How that works in detail is something that my colleagues and I have covered in several conference talks; <https://youtu.be/kbrHW--ZLUc> (from DjangoCon US in 2021) is one of them.
+Wie das im Detail funktioniert, haben meine Kolleg:innen und ich in mehreren Konferenzvorträgen behandelt; <https://youtu.be/kbrHW--ZLUc> (von DjangoCon US 2021) ist einer davon.
