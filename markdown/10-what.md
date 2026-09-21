@@ -1,74 +1,75 @@
-# What's an LMS? <!-- .element class="hidden" -->
-Okay, so what's an LMS?
+# Was ist ein LMS? <!-- .element class="hidden" -->
+Okay, was ist ein LMS?
 
 <!-- Note -->
-For the uninitiated, let's talk about what an LMS is and what it does.
+Für alle, die damit nicht vertraut sind:
+Reden wir kurz darüber, was ein LMS ist und was es tut.
 
 
 ## LMS
 Learning Management System
 
 <!-- Note -->
-A *Learning Management System* or LMS encompasses everything you need to teach people things, using a computer.
+Ein *Learning Management System* (LMS) umfasst alles, was du benötigst, um Menschen etwas beizubringen, mithilfe eines Computers.
 
-So instead of people sitting in a lecture hall or a seminar room and listening or working with a person (a teacher, instructor, professor, tutor), we sit in front of a computer --- or use a phone or tablet or other mobile device --- and learn that way.
+Statt also in einem Hörsaal oder Seminarraum zu sitzen und einer Person zuzuhören oder mit ihr zu arbeiten (einem Lehrer, Dozenten, Professor, Tutor), sitz du vor einem Computer — oder nutzt ein Smartphone, Tablet oder anderes mobiles Gerät — und lernst auf diese Weise.
 
-And to the people working with it, an LMS can be like a virtual school, or university, or professional learning centre, or even a research lab.
+Und für die Menschen, die damit arbeiten, kann ein LMS wie eine virtuelle Schule, Universität, ein berufliches Lernzentrum oder sogar ein Forschungslabor sein.
 
-This has of course massively gained significance since 2020, as a result of the Covid-19 pandemic, but as we'll soon see the existence of LMSs predates the pandemic by at least two decades.
+Dies hat natürlich seit 2020 massiv an Bedeutung gewonnen, infolge der Covid-19-Pandemie. Wie wir gleich sehen werden, existieren LMS jedoch bereits seit mindestens zwei Jahrzehnten vor der Pandemie.
 
-(Side note: another term for an LMS is *learning platform,* and for the purposes of this talk I am going to use those terms interchangeably.)
-
-
-## An LMS lets you...
-
-<!-- Note -->
-Let's take a quick look at what we generally expect to be able to do, as learners or teachers at such an institution or organization.
+(Nebenanmerkung: Ein weiterer Begriff für ein LMS ist *Lernplattform*, und im Rahmen dieses Vortrags werde ich diese Begriffe austauschbar verwenden.)
 
 
-## What an LMS enables you to do <!-- .element class="hidden" -->
-
-<span>learn</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span>| teach</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span>| work</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span>| study</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span>| experiment</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span>| develop</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span>| play</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span>| hang out</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span>| discuss</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span>| author</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span>| test</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span>| examine</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span>| certify</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+## Ein LMS ermöglicht...
 
 <!-- Note -->
-As with the school campus, we generally expect of an LMS to not only be a (virtual) place for learning and teaching and working and studying.
-
-We also want to be able to use an LMS for experimentation, for developing ideas, for playing around with the concepts we are learning about.
-
-We also want to be able to discuss the subject of our work with our peers, our tutors, and our professors/instructors.
-
-As course authors or instructional designers, we generally also expect to be able to use our LMS for course design, authoring, and continuous improvement.
-
-And finally, we also want to use our LMS as an examination and certification platform.
+Werfen wir einen schnellen Blick darauf, was wir im Allgemeinen erwarten können, als Lernende oder Lehrende an einer solchen Einrichtung oder Organisation.
 
 
-## FOSS Learning Platforms
+## Ein LMS ermöglicht <!-- .element class="hidden" -->
+
+<span>Lernen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span>| Lehren</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span>| Arbeiten</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span>| Studieren</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span>| Experimentieren</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span>| Entwickeln</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span>| Spielen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span>| Gemeinsam Zeit verbringen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span>| Diskutieren</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span]| Verfassen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span]| Testen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span]| Prüfen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span]| Zertifizieren</span> <!-- .element class="fragment fade-in-then-semi-out" -->
 
 <!-- Note -->
-Now learning platforms generally come in two major categories:
+Ähnlich wie von einem Schulcampus erwarten wir im Allgemeinen von einem LMS, dass es nicht nur ein (virtueller) Ort für Lernen, Lehren, Arbeiten und Studieren ist.
 
-* commercial and proprietary, *or*
-* free and open source software (FOSS).
+Wir möchten ein LMS auch für Experimente, für die Entwicklung von Ideen, zum Herumspielen mit den Konzepten, die wir lernen, verwenden können.
 
-Both categories collectively are referred to as "Educational Technology", or "EdTech", and they comprise an industry worth billions.
-Players in the proprietary category are either specialised on EdTech (example: Blackboard), or they constitute the EdTech branch of a large tech company (example: Google Edu/Alphabet).
+Wir möchten auch die Themen unserer Arbeit mit unseren Mitschüler:innen, Tutoren und Professor:innen/Dozent:innen diskutieren können.
 
-But when we talk about the other category, that is, about FOSS learning platforms, lots of people talk about one platform: Moodle.
+Als Kursautor:innen oder Instructional Designer:innen erwarten wir im Allgemeinen auch, dass wir unser LMS für Kurserstellung, Autorenschaft und kontinuierliche Verbesserung verwenden können.
 
-Moodle is a free software project that has been around for ages (more than 20 years), that has a broad and active community, and is licensed under a copyleft license, the GPL.
+Und schließlich möchten wir unser LMS auch als Prüfungs- und Zertifizierungsplattform verwenden.
 
-But Moodle isn't the only such project! It turns out that there is another, which has also been around for more than a decade, has an equally vibrant community, and is licensed under an even stronger copyleft license than the GPL is.
 
-Plus, and this makes this relevant to our conference today, it isn't built around a PHP codebase like Moodle is, but around a Python one.
+## FOSS-Lernplattformen
+
+<!-- Note -->
+Lernplattformen kommen im Allgemeinen in zwei Hauptkategorien:
+
+* kommerziell und proprietär, *oder*
+* freie Open-Source-Software (FOSS).
+
+Beide Kategorien werden zusammen als "Educational Technology" oder "EdTech" bezeichnet und umfassen eine Industrie im Milliardenbereich.
+Spieler:innen der proprietären Kategorie spezialisieren sich entweder auf EdTech (Beispiel: Blackboard) oder sie stellen die EdTech-Sparte eines großen Technologieunternehmens dar (Beispiel: Google Edu/Alphabet).
+
+Aber wenn wir über die andere Kategorie sprechen, also über FOSS-Lernplattformen, dann sprechen viele Leute über eine Plattform: Moodle.
+
+Moodle ist ein Freie-Software-Projekt, das es seit Ewigkeiten gibt (mehr als 20 Jahre), das eine breite und aktive Community hat und unter einer Copyleft-Lizenz, der GPL, lizenziert ist.
+
+Aber Moodle ist nicht das einzige derartige Projekt! Es stellt sich heraus, dass es noch ein anderes gibt, das ebenfalls seit mehr als einem Jahrzehnt existiert, eine ebenso lebendige Community hat und unter einer noch stärkeren Copyleft-Lizenz als die GPL lizenziert ist.
+
+Und es ist nicht, wie Moodle, um eine PHP-Codebasis aufgebaut, sondern um eine Python-basierte.
