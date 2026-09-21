@@ -2,14 +2,15 @@
 Okay, was ist ein LMS?
 
 <!-- Note -->
-Für alle, die damit nicht vertraut sind: Sprechen wir darüber, was ein LMS ist und was es tut.
+Für alle, die damit nicht vertraut sind:
+Reden wir kurz darüber, was ein LMS ist und was es tut.
 
 
 ## LMS
 Learning Management System
 
 <!-- Note -->
-Ein *Learning Management System* (LMS) umfasst alles, was du benötigst, um Menschen etwas beizubringen — mittels eines Computers.
+Ein *Learning Management System* (LMS) umfasst alles, was du benötigst, um Menschen etwas beizubringen, mithilfe eines Computers.
 
 Statt also in einem Hörsaal oder Seminarraum zu sitzen und einer Person zuzuhören oder mit ihr zu arbeiten (einem Lehrer, Dozenten, Professor, Tutor), sitz du vor einem Computer — oder nutzt ein Smartphone, Tablet oder anderes mobiles Gerät — und lernst auf diese Weise.
 
@@ -20,13 +21,13 @@ Dies hat natürlich seit 2020 massiv an Bedeutung gewonnen, infolge der Covid-19
 (Nebenanmerkung: Ein weiterer Begriff für ein LMS ist *Lernplattform*, und im Rahmen dieses Vortrags werde ich diese Begriffe austauschbar verwenden.)
 
 
-## Ein LMS ermöglicht es dir ...
+## Ein LMS ermöglicht...
 
 <!-- Note -->
 Werfen wir einen schnellen Blick darauf, was wir im Allgemeinen erwarten können, als Lernende oder Lehrende an einer solchen Einrichtung oder Organisation.
 
 
-## Was ein LMS für dich ermöglicht <!-- .element class="hidden" -->
+## Ein LMS ermöglicht <!-- .element class="hidden" -->
 
 <span>Lernen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
 <span>| Lehren</span> <!-- .element class="fragment fade-in-then-semi-out" -->
@@ -35,7 +36,7 @@ Werfen wir einen schnellen Blick darauf, was wir im Allgemeinen erwarten können
 <span>| Experimentieren</span> <!-- .element class="fragment fade-in-then-semi-out" -->
 <span>| Entwickeln</span> <!-- .element class="fragment fade-in-then-semi-out" -->
 <span>| Spielen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span>| Herumhängen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span>| Gemeinsam Zeit verbringen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
 <span>| Diskutieren</span> <!-- .element class="fragment fade-in-then-semi-out" -->
 <span]| Verfassen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
 <span]| Testen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
@@ -43,7 +44,7 @@ Werfen wir einen schnellen Blick darauf, was wir im Allgemeinen erwarten können
 <span]| Zertifizieren</span> <!-- .element class="fragment fade-in-then-semi-out" -->
 
 <!-- Note -->
-Ähnlich wie ein Schulcampus erwarten wir im Allgemeinen von einem LMS, dass es nicht nur ein (virtueller) Ort für Lernen, Lehren, Arbeiten und Studieren ist.
+Ähnlich wie von einem Schulcampus erwarten wir im Allgemeinen von einem LMS, dass es nicht nur ein (virtueller) Ort für Lernen, Lehren, Arbeiten und Studieren ist.
 
 Wir möchten ein LMS auch für Experimente, für die Entwicklung von Ideen, zum Herumspielen mit den Konzepten, die wir lernen, verwenden können.
 
@@ -71,4 +72,4 @@ Moodle ist ein Freie-Software-Projekt, das es seit Ewigkeiten gibt (mehr als 20 
 
 Aber Moodle ist nicht das einzige derartige Projekt! Es stellt sich heraus, dass es noch ein anderes gibt, das ebenfalls seit mehr als einem Jahrzehnt existiert, eine ebenso lebendige Community hat und unter einer noch stärkeren Copyleft-Lizenz als die GPL lizenziert ist.
 
-Plus — und das macht es für unsere Konferenz heute relevant — ist es nicht, wie Moodle, um eine PHP-Codebasis aufgebaut, sondern um eine Python-basierte.
+Und es ist nicht, wie Moodle, um eine PHP-Codebasis aufgebaut, sondern um eine Python-basierte.

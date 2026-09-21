@@ -21,14 +21,14 @@ Das "andere" Open-Source-LMS
 
 * * *
 
-Florian Haas | [@xahteiwi@mastodon.social](https://mastodon.social/@xahteiwi)
+Florian Haas | [@xahteiwi@fedifreu.de](https://fedifreu.de/@xahteiwi)
 
-pycon.at 2026 | 2026-04-20
+LinuxDay AT 2026 | 2026-09-26
 
 <!-- Note -->
-Dies ist eine kurze Einführung in das Open edX Learning Management System (LMS).
+Dies ist eine kurze Einführung in das Learning Management System (LMS) Open edX.
 
-Ich verwende Open edX seit mehr als 10 Jahren und setze es weiterhin täglich ein.
+Ich verwende Open edX seit mehr als 10 Jahren und setze es täglich ein.
 Mein Team und ich betreiben mehrere Open edX-Plattformen im Rahmen meiner täglichen Arbeit.
 
 Ich arbeite bei Cleura, einem europäischen Cloud-Service-Anbieter mit Sitz in Schweden. Ich bin dort Leiter von Bildung und Professional Services, und dies ...

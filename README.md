@@ -1,16 +1,18 @@
 # Open edX
-The "other" open source LMS
+Das "andere" Open Source-LMS
 
-A brief technical introduction to the Open edX Learning Management System (LMS).
-
-* * *
-
-Presented by Florian Haas at pycon.at 2026, 2026-04-20
-
-Rendered slides from this presentation are at <https://xahteiwi.eu/pyconat2026>.
+Eine kurze technische Einführung in das Learning Management System (LMS) Open edX.
 
 * * *
 
-Made with [Cookiecutter](https://cookiecutter.readthedocs.io/) from <https://codeberg.org/fghaas/cookiecutter-presentation>.
+Präsentiert von Florian Haas am LinuxDay.at, 2026-09-26
 
-License: CC-BY-SA
+Slides: <https://xahteiwi.eu/linuxdayat2026>.
+
+Ursprüngliche, englischsprachige Version: <https://xahteiwi.eu/pyconat2026>.
+
+* * *
+
+Hergestellt mit [Cookiecutter](https://cookiecutter.readthedocs.io/) aus <https://codeberg.org/fghaas/cookiecutter-presentation>.
+
+Lizenz: CC-BY-SA
