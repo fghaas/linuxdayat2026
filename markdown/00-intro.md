@@ -12,7 +12,7 @@ Bitte tue das insbesondere, wenn du Sehbehinderungen hast oder weit hinten sitzt
 
 Wenn du lichtempfindlich bist oder unter Migräne leidest und du deshalb nicht längere Zeit auf den hellen Bildschirm starren kannst, scanne diesen ebenfalls — und sofern dein Gerät auf den Dunkelmodus eingestellt ist — erhältst du diese Folien mit einem dunklen Design.
 
-Und wenn du gehörbeeinträchtigt bist, Schwierigkeiten hast, meinem Akzent zu folgen, oder Englisch nicht deine Muttersprache ist, öffne dies gerne auf deinem Gerät und tippe dann doppelt auf deinen Bildschirm, was meine vollständigen Sprechernotizen öffnet.
+Und wenn du gehörbeeinträchtigt bist, Schwierigkeiten hast, meinem Akzent zu folgen, oder Deutsch nicht deine Erstsprache ist, öffne dies gerne auf deinem Gerät und tippe dann doppelt auf deinen Bildschirm, was meine vollständigen Sprechernotizen öffnet.
 Das bedeutet, dass du mich im Grunde mit Untertiteln erhältst.
 
 
