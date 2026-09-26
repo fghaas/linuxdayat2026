@@ -26,13 +26,15 @@ Florian Haas | [@xahteiwi@fedifreu.de](https://fedifreu.de/@xahteiwi)
 LinuxDay AT 2026 | 2026-09-26
 
 <!-- Note -->
+> **Anmerkung:** Dieser Vortrag wurde von mir ursprünglich in englischer Sprache für die PyCon Austria 2026 erstellt.
+> Die Übersetzung erfolgte mit LLM-Unterstützung, mit anschließender Überarbeitung durch mich.
+
 Dies ist eine kurze Einführung in das Learning Management System (LMS) Open edX.
 
 Ich verwende Open edX seit mehr als 10 Jahren und setze es täglich ein.
 Mein Team und ich betreiben mehrere Open edX-Plattformen im Rahmen meiner täglichen Arbeit.
 
 Ich arbeite bei Cleura, einem europäischen Cloud-Service-Anbieter mit Sitz in Schweden. Ich bin dort Leiter von Bildung und Professional Services, und dies ...
-
 
 ## Cleura Cloud Academy <!-- .element class="hidden" -->
 
