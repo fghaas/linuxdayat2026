@@ -38,10 +38,10 @@ Werfen wir einen schnellen Blick darauf, was wir im Allgemeinen erwarten können
 <span>| Spielen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
 <span>| Gemeinsam Zeit verbringen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
 <span>| Diskutieren</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span]| Verfassen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span]| Testen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span]| Prüfen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
-<span]| Zertifizieren</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span>| Verfassen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span>| Testen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span>| Prüfen</span> <!-- .element class="fragment fade-in-then-semi-out" -->
+<span>| Zertifizieren</span> <!-- .element class="fragment fade-in-then-semi-out" -->
 
 <!-- Note -->
 Ähnlich wie von einem Schulcampus erwarten wir im Allgemeinen von einem LMS, dass es nicht nur ein (virtueller) Ort für Lernen, Lehren, Arbeiten und Studieren ist.
