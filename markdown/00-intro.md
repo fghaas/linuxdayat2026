@@ -36,6 +36,7 @@ Mein Team und ich betreiben mehrere Open edX-Plattformen im Rahmen meiner tägli
 
 Ich arbeite bei Cleura, einem europäischen Cloud-Service-Anbieter mit Sitz in Schweden. Ich bin dort Leiter von Bildung und Professional Services, und dies ...
 
+
 ## Cleura Cloud Academy <!-- .element class="hidden" -->
 
 [academy.cleura.cloud](https://academy.cleura.cloud)
